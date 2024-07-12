@@ -75,7 +75,7 @@ Modeling: Build predictive and clustering models to identify factors influencing
 The dataset used in this project is sourced from Kaggle[https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset] and includes detailed information on sleep duration and various lifestyle factors.
 
 ## Methodology
-The methodology adopted involves eight steps synthesized from the Cross-Industry Standard Process for Data Mining (CRISP-DM) process (SPSS, 2007) and the KDD process (Fayyad et al., 1996). The steps include:
+The methodology adopted involves eight steps synthesized from the Cross-Industry Standard Process for Data Mining (CRISP-DM) process and the KDD process. The steps include:
 
 ### Business/Situation Understanding: 
 Identify the objectives, assess the situation, determine data mining objectives, and produce a project plan. A clear understanding ensures the research stays on track and provides valuable insights.
