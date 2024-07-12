@@ -54,9 +54,10 @@ INFOSYS722-BDAS/
 ├── Datasets  //Datasets used for analysis
 │
 ├── README.md
+├── Sleep Metrics Insights: Exploring Sleeo Health Patterns Through Data Mining and Analytics.pdf  //Formal report summarizing the project's findings, methodology, and key insights
 ├── Spark DataFrame Iteration4.ipynb  //Main file for data analysis. Includes steps for cleaning, preprocessing, analyzing, and visualizing the data
-├── Spark DataFrame Iteration4.1 re iteration.ipynb  //Re-iteration of data analysis with modified attributes based on feedback.
-└── Formal Report.pdf  //Formal report summarizing the project's findings, methodology, and key insights
+└── Spark DataFrame Iteration4.1 re iteration.ipynb  //Re-iteration of data analysis with modified attributes based on feedback.
+ 
 ```
 
 ## Features
