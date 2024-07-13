@@ -1,4 +1,4 @@
-# Sleep Metrics Insights: Exploring Sleeo Health Patterns Through Data Mining and Analytics
+# Sleep Metrics Insights: Exploring Sleep Health Patterns Through Data Mining and Analytics
 
 ## Project Description
 This project aims to address sleeping-related issues by leveraging data mining and big data analytics techniques. Using a dataset containing information on sleep duration and lifestyle factors, we utilize AWS (EC2/AMI), Jupyter, PySpark, and Spark to perform in-depth analysis and derive meaningful insights.
