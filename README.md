@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 2. Set up a virtual environment and install the required dependencies:
 
 ```
-cd sleep-analysis-project
+cd INFOSYS722-BDAS
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
