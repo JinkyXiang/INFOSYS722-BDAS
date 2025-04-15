@@ -13,6 +13,7 @@ This project aims to address sleeping-related issues by leveraging data mining a
 - [Results](#results)
 - [Contributing](#contributing)
 
+## Power BI Dashboard
 
 ## Installation
 To run this project locally, follow these steps:
